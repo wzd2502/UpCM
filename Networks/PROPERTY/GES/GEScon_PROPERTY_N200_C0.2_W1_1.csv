@@ -1,0 +1,5 @@
+ID,Variable1,Dependency,Variable2
+1,otherPropertyExpenses,->,propertyExpenses
+2,capitalGains,->,propertyValueT+1
+3,interest,->,interestTaxRelief
+4,borrowing,->,LTV

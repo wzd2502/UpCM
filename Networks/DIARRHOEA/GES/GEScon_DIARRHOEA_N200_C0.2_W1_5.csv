@@ -1,0 +1,8 @@
+ID,Variable1,Dependency,Variable2
+1,BF_BreastfedMonths,->,IMM_Measles
+2,CUL_LanguageGroup,->,WSH_ImprovedWaterSource
+3,ECO_WealthQuintile,->,MTH_Education
+4,GEO_Region,->,CUL_LanguageGroup
+5,IMM_Measles,->,CHI_Age
+6,MTH_Education,->,ECO_WealthQuintile
+7,WSH_ImprovedToilet,->,WSH_SafeStoolDisposal

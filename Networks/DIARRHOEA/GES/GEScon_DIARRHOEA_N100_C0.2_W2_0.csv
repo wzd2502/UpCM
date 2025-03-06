@@ -1,0 +1,7 @@
+ID,Variable1,Dependency,Variable2
+1,BF_EarlyBreastfeeding,->,DIA_HadDiarrhoea
+2,CHI_Age,->,IMM_Measles
+3,ECO_WealthQuintile,->,KNW_WatchTV
+4,IMM_Diptheria,->,IMM_Measles
+5,SRV_Near,->,DEL_SmallBaby
+6,SRV_Near,->,SRV_OKAlone

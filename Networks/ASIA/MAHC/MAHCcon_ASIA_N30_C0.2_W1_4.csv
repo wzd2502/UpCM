@@ -1,0 +1,4 @@
+ID,Variable1,Dependency,Variable2
+1,smoke,->,asia
+2,bronc,->,dysp
+3,either,->,dysp

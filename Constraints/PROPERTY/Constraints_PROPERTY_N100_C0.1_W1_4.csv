@@ -1,0 +1,7 @@
+ID,Parent,Child,TrueOrFalse
+0,propertyManagement,propertyExpenses,true
+1,interest,interestTaxRelief,true
+2,actualRentalIncome,rentalGrossYield,true
+3,interest,rentalNetProfitBeforeInterest,false
+4,rentalIncome,rentalNetProfitBeforeInterest,false
+5,propertyPurchaseValue,incomeTax,false

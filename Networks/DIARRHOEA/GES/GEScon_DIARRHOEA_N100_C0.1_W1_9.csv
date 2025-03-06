@@ -1,0 +1,4 @@
+ID,Variable1,Dependency,Variable2
+1,CUL_LanguageGroup,->,GEO_Region
+2,ECO_WealthQuintile,->,SRV_Near
+3,WSH_ImprovedToilet,->,ECO_WealthQuintile

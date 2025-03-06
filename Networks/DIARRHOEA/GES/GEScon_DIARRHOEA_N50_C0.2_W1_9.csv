@@ -1,0 +1,3 @@
+ID,Variable1,Dependency,Variable2
+1,IMM_Measles,->,IMM_Diptheria
+2,WSH_ImprovedToilet,->,WSH_SafeStoolDisposal

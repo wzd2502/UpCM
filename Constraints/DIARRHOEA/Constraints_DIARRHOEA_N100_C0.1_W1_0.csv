@@ -1,0 +1,15 @@
+ID,Parent,Child,TrueOrFalse
+0,IMM_Diptheria,IMM_Measles,true
+1,CHI_Age,BF_BottleFeeding,true
+2,CHI_Age,IMM_VitaminA1,true
+3,IMM_VitaminA1,IMM_Measles,true
+4,CUL_LanguageGroup,HOU_ModernWallMaterial,true
+5,ECO_WealthQuintile,SRV_OKAlone,true
+6,WSH_ImprovedWaterSource,DIA_HadDiarrhoea,true
+7,IMM_Diptheria,CHI_Age,false
+8,GEO_Region,DIA_HadDiarrhoea,false
+9,WSH_WaterTreated,HOU_CookingFuel,false
+10,DEL_SmallBaby,WSH_ImprovedToilet,false
+11,HOU_CookingFuel,MTH_MaternalAge,false
+12,HOU_ModernWallMaterial,WSH_ImprovedWaterSource,false
+13,CUL_Religion,IMM_Measles,false

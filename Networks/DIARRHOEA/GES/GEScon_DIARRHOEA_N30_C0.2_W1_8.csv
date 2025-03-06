@@ -1,0 +1,3 @@
+ID,Variable1,Dependency,Variable2
+1,ECO_WealthQuintile,->,BF_BottleFeeding
+2,IMM_Measles,->,IMM_Diptheria

@@ -1,0 +1,2 @@
+,Network,Method,NumOfData,CorRate,WroRate,Repeat,SHD,Adj_Tp,Adj_Fp,Adj_Tn,Adj_Fn,Prec,Rec,F1,Con_Tp,Con_Fp,Con_Tn,Con_Fn,Con_Prec,Con_Rec,Con_F1,type
+0,ASIA,UpCM,100,0.2,1,-247.22704845154772,8,1,3,45,7,0.25,0.125,0.16666666666666666,1,0,2,1,1.0,0.5,0.6666666666666666,Addition

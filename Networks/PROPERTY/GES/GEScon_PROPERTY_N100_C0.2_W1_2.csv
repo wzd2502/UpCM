@@ -1,0 +1,5 @@
+ID,Variable1,Dependency,Variable2
+1,propertyManagement,->,propertyExpenses
+2,propertyPurchaseValue,->,stampDutyTax
+3,interest,->,interestTaxRelief
+4,interestRate,->,interest

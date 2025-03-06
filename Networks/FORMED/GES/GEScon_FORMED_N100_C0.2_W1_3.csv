@@ -1,0 +1,17 @@
+ID,Variable1,Dependency,Variable2
+1,Impulsivity,->,PCLRfacet3
+2,ASPD,->,Impulsivity
+3,ASPD,->,PCLRfactor2
+4,CriminalAttitude,->,AttitudeDL
+5,SymptomsOfMentalIllness,->,ParanoidDelusions
+6,EcstasyDuringPrisonSentence,->,EcstasyAfterRelease
+7,EcstasyDuringPrisonSentence,->,EcstasyDependence
+8,CocaineDuringPrisonSentence,->,CocaineAfterRelease
+9,EcstasyDependence,->,AnyDrugDependence
+10,CocaineDependence,->,AnyDrugDependence
+11,CocainePT,->,SubstanceUse
+12,Violence,->,PriorViolentConvictions
+13,ResponseToTreatGivenAlcDep,->,ResponsivenessToTreatment
+14,HazardousDrinkingPT,->,SubstanceUse
+15,LivingCircumstances,->,SocialProtectiveObs
+16,DepressionPT,->,MentalIllnessSymptomCount

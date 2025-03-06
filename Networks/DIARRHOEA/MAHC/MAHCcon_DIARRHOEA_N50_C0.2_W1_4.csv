@@ -1,0 +1,17 @@
+ID,Variable1,Dependency,Variable2
+1,CHI_Age,->,IMM_Measles
+2,CUL_LanguageGroup,->,GEO_Region
+3,ECO_WealthQuintile,->,HOU_CookingFuel
+4,ECO_WealthQuintile,->,KNW_WatchTV
+5,ECO_WealthQuintile,->,WSH_ImprovedToilet
+6,ECO_WealthQuintile,->,WSH_ImprovedWaterSource
+7,HOU_CookingFuel,->,WSH_WaterTreated
+8,IMM_Measles,->,IMM_Diptheria
+9,IMM_Measles,->,MTH_MaternalAge
+10,KNW_WatchTV,->,FP_ModernMethod
+11,KNW_WatchTV,->,MTH_Education
+12,SRV_Near,->,BF_EarlyBreastfeeding
+13,SRV_Near,->,SRV_OKAlone
+14,WSH_ImprovedWaterSource,->,CUL_LanguageGroup
+15,WSH_ImprovedWaterSource,->,DEL_SmallBaby
+16,WSH_WaterTreated,->,BF_BottleFeeding

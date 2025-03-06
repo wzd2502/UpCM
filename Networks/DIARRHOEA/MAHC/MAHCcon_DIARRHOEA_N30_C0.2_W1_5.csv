@@ -1,0 +1,17 @@
+ID,Variable1,Dependency,Variable2
+1,CHI_Weight4Height,->,WSH_WashWithAgent
+2,CUL_LanguageGroup,->,GEO_Region
+3,CUL_LanguageGroup,->,HOU_ModernWallMaterial
+4,DIA_HadDiarrhoea,->,MTH_MaternalAge
+5,ECO_WealthQuintile,->,WSH_ImprovedWaterSource
+6,HOU_CookingFuel,->,FP_ModernMethod
+7,HOU_CookingFuel,->,WSH_WaterTreated
+8,IMM_Diptheria,->,BF_BottleFeeding
+9,IMM_Measles,->,CHI_Age
+10,IMM_Measles,->,HOU_CookingFuel
+11,IMM_Measles,->,IMM_Diptheria
+12,IMM_Measles,->,IMM_VitaminA1
+13,IMM_Measles,->,WSH_ImprovedToilet
+14,KNW_WatchTV,->,MTH_Education
+15,SRV_Near,->,SRV_OKAlone
+16,WSH_ImprovedWaterSource,->,BF_EarlyBreastfeeding

@@ -1,0 +1,16 @@
+ID,Variable1,Dependency,Variable2
+1,CUL_LanguageGroup,->,GEO_Region
+2,DIA_HadDiarrhoea,->,IMM_VitaminA1
+3,ECO_WealthQuintile,->,KNW_WatchTV
+4,ECO_WealthQuintile,->,WSH_ImprovedToilet
+5,ECO_WealthQuintile,->,WSH_ImprovedWaterSource
+6,IMM_Measles,->,CHI_Age
+7,IMM_Measles,->,IMM_Diptheria
+8,KNW_WatchTV,->,WSH_WashWithAgent
+9,MTH_Education,->,WSH_WaterTreated
+10,MTH_MaternalAge,->,SRV_Near
+11,SRV_OKAlone,->,BF_BreastfedMonths
+12,SRV_OKAlone,->,SRV_Near
+13,WSH_ImprovedToilet,->,WSH_SafeStoolDisposal
+14,WSH_ImprovedWaterSource,->,DIA_HadDiarrhoea
+15,WSH_SafeStoolDisposal,->,HOU_CookingFuel

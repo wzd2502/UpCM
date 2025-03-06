@@ -1,0 +1,5 @@
+ID,Variable1,Variable2,TrueOrFalse
+0,tub,either,true
+1,lung,either,true
+2,lung,dysp,false
+3,lung,smoke,false

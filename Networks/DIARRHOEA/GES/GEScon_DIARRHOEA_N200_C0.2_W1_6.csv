@@ -1,0 +1,11 @@
+ID,Variable1,Dependency,Variable2
+1,CHI_Age,->,IMM_Diptheria
+2,CUL_LanguageGroup,->,HOU_ModernWallMaterial
+3,ECO_WealthQuintile,->,MTH_Education
+4,ECO_WealthQuintile,->,WSH_ImprovedToilet
+5,FP_ModernMethod,->,BF_BottleFeeding
+6,GEO_Region,->,CUL_LanguageGroup
+7,KNW_WatchTV,->,FP_ModernMethod
+8,MTH_MaternalAge,->,CHI_Age
+9,WSH_ImprovedToilet,->,WSH_ImprovedWaterSource
+10,WSH_ImprovedWaterSource,->,HOU_CookingFuel

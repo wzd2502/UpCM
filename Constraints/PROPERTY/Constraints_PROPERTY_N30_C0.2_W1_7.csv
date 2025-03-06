@@ -1,0 +1,13 @@
+ID,Parent,Child,TrueOrFalse
+0,propertyManagement,propertyExpenses,true
+1,otherPropertyExpenses,otherPropertyExpensesT+1,true
+2,propertyExpensesGrowth,otherPropertyExpensesT+1,true
+3,capitalGrowth,capitalGains,true
+4,actualRentalIncome,rentalIncomeT+1,true
+5,capitalGains,propertyValueT+1,true
+6,rentalGrossYield,interestRate,false
+7,rentalGrossYield,otherPropertyExpenses,false
+8,LTV,borrowing,false
+9,incomeTax,rentalIncomeLoss%,false
+10,otherPropertyExpenses,stampDutyTaxBand,false
+11,stampDutyTaxBand,netProfit,false

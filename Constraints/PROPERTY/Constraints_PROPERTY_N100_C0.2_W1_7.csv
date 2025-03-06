@@ -1,0 +1,13 @@
+ID,Variable1,Variable2,TrueOrFalse
+0,propertyPurchaseValue,propertyValueT+1,true
+1,interestRate,interest,true
+2,actualRentalIncome,propertyExpenses,true
+3,propertyPurchaseValue,stampDutyTax,true
+4,propertyManagement,propertyExpenses,true
+5,propertyPurchaseValue,capitalGains,true
+6,actualRentalIncome,stampDutyTax,false
+7,rentalIncome,stampDutyTaxBand,false
+8,otherPropertyExpensesT+1,stampDutyTaxBand,false
+9,borrowing,otherInterestFees,false
+10,interest,otherPropertyExpensesT+1,false
+11,rentalIncome,interest,false

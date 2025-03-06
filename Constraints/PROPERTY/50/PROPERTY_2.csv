@@ -1,0 +1,13 @@
+ID,Variable1,Variable2,TrueOrFalse
+0,capitalGrowth,capitalGains,true
+1,otherPropertyExpenses,otherPropertyExpensesT+1,true
+2,borrowing,interest,true
+3,propertyPurchaseValue,capitalGains,true
+4,otherInterestFees,interest,true
+5,propertyExpensesGrowth,otherPropertyExpensesT+1,true
+6,propertyValueT+1,actualRentalIncome,false
+7,rentalIncomeT+1,borrowing,false
+8,rentalIncome,interestRate,false
+9,interestTaxRelief,capitalGrowth,false
+10,actualRentalIncome,propertyPurchaseValue,false
+11,propertyManagement,interestRate,false

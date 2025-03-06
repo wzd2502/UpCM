@@ -1,0 +1,12 @@
+ID,Variable1,Dependency,Variable2
+1,actualRentalIncome,->,rentalIncomeT+1
+2,actualRentalIncome,->,rentalIncome
+3,otherPropertyExpenses,->,propertyExpenses
+4,otherPropertyExpenses,->,otherPropertyExpensesT+1
+5,propertyPurchaseValue,->,stampDutyTaxBand
+6,stampDutyTaxBand,->,rentalGrossYield
+7,stampDutyTaxBand,->,propertyValueT+1
+8,stampDutyTaxBand,->,stampDutyTax
+9,stampDutyTax,->,LTV
+10,capitalGains,->,capitalGrowth
+11,interest,->,interestTaxRelief

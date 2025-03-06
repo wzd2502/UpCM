@@ -1,0 +1,17 @@
+ID,Variable1,Dependency,Variable2
+1,ViolentThoughts,->,AggressionDL
+2,Impulsivity,->,PCLRfacet3
+3,CriminalFamilyBackground,->,CriminalNetwork
+4,EmploymentOrTraining,->,CannabisBeforePrisonSentence
+5,ComplianceWithSupervision,->,NegativeAttitude
+6,CriminalAttitude,->,AttitudeDL
+7,RefuseFailToAttendTherapy,->,AngerManagementGivenRFAT
+8,CannabisDuringPrisonSentence,->,CannabisDependence
+9,EcstasyAfterRelease,->,EcstasyPT
+10,CocaineDependence,->,AnyDrugDependence
+11,AlcoholTreatment,->,AlcoholTreatmentGivenRFAT
+12,EcstasyPT,->,SubstanceUse
+13,ResponsivenessToTreatment,->,ResponseToTreatGivenAlcDep
+14,AngerManagement,->,AngerManagementGivenRFAT
+15,ViolentConvRateGivenProt,->,ViolentConvictions
+16,Anxiety,->,AnxietyPT

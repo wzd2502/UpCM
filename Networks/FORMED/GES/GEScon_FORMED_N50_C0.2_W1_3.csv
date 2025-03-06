@@ -1,0 +1,16 @@
+ID,Variable1,Dependency,Variable2
+1,BPD,->,Impulsivity
+2,NegativeAttitude,->,AttitudeDL
+3,CannabisBeforePrisonSentence,->,CannabisDuringPrisonSentence
+4,CocaineBeforePrisonSentence,->,CocaineDuringPrisonSentence
+5,CocaineBeforePrisonSentence,->,CocaineAfterRelease
+6,EcstasyDependence,->,AnyDrugDependence
+7,CocaineDependence,->,AnyDrugDependence
+8,CocainePT,->,SubstanceUse
+9,SubstanceMisuseDL,->,ViolentConvictionsRate
+10,ResponsivenessToTreatment,->,ResponseToTreatGivenAlcDep
+11,ResponsivenessToTreatment,->,ResponseToTreatGivenDrugDep
+12,AngerManagement,->,AngerManagementGivenRFAT
+13,ViolentConvictionsRate,->,ViolentConvRateGivenProt
+14,ParanoidDelusionsPT,->,MentalIllnessSymptomCount
+15,PsychiatricTreatment,->,PsychiatricTreatmentGivenRFAT

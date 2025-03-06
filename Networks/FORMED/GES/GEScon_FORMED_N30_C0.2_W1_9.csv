@@ -1,0 +1,11 @@
+ID,Variable1,Dependency,Variable2
+1,Impulsivity,->,AggressionDL
+2,RefuseFailToAttendTherapy,->,AngerManagementGivenRFAT
+3,CannabisDependence,->,AnyDrugDependence
+4,CocaineDependence,->,AnyDrugDependence
+5,CannabisPT,->,SubstanceUse
+6,ResponseToTreatGivenAlcDep,->,ResponseToTreatGivenDrugDep
+7,HazardousDrinkingPT,->,SubstanceUse
+8,LivingCircumstances,->,SocialProtectiveObs
+9,ViolentConvictionsRate,->,ViolentConvRateGivenProt
+10,Anxiety,->,AnxietyPT

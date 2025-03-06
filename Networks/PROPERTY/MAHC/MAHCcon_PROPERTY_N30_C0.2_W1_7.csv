@@ -1,0 +1,7 @@
+ID,Variable1,Dependency,Variable2
+1,otherPropertyExpenses,->,otherPropertyExpensesT+1
+2,LTV,->,borrowing
+3,stampDutyTaxBand,->,propertyPurchaseValue
+4,stampDutyTaxBand,->,propertyValueT+1
+5,stampDutyTaxBand,->,stampDutyTax
+6,interestTaxRelief,->,interest

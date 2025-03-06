@@ -1,0 +1,7 @@
+ID,Variable1,Dependency,Variable2
+1,CUL_LanguageGroup,->,FP_BirthsLast5Yrs
+2,ECO_WealthQuintile,->,WSH_ImprovedToilet
+3,GEO_Region,->,CUL_LanguageGroup
+4,IMM_Measles,->,CHI_Age
+5,IMM_Measles,->,IMM_Diptheria
+6,WSH_WashWithAgent,->,ECO_WealthQuintile

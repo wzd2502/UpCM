@@ -1,0 +1,9 @@
+ID,Variable1,Variable2,TrueOrFalse
+0,lung,either,true
+1,asia,tub,true
+2,either,xray,true
+3,bronc,dysp,true
+4,bronc,tub,false
+5,either,asia,false
+6,either,lung,false
+7,asia,either,false

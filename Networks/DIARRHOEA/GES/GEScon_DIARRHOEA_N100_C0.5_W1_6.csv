@@ -1,0 +1,9 @@
+ID,Variable1,Dependency,Variable2
+1,CUL_LanguageGroup,->,MTH_Education
+2,ECO_WealthQuintile,->,SRV_Near
+3,ECO_WealthQuintile,->,WSH_WashWithAgent
+4,GEO_Region,->,WSH_ImprovedWaterSource
+5,IMM_VitaminA1,->,IMM_Measles
+6,SRV_Near,->,DIA_HadDiarrhoea
+7,SRV_Near,->,SRV_OKAlone
+8,WSH_WashWithAgent,->,HOU_CookingFuel

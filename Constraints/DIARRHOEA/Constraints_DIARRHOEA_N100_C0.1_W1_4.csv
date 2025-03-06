@@ -1,0 +1,15 @@
+ID,Parent,Child,TrueOrFalse
+0,SRV_Near,DEL_SmallBaby,true
+1,ECO_WealthQuintile,MTH_Education,true
+2,IMM_VitaminA1,IMM_Measles,true
+3,KNW_WatchTV,IMM_Measles,true
+4,WSH_WashWithAgent,DIA_HadDiarrhoea,true
+5,GEO_Region,BF_BottleFeeding,true
+6,WSH_ImprovedToilet,WSH_SafeStoolDisposal,true
+7,WSH_ImprovedToilet,CHI_Weight4Height,false
+8,DEL_SmallBaby,BF_EarlyBreastfeeding,false
+9,SRV_Near,WSH_WaterTreated,false
+10,WSH_WashWithAgent,MTH_MaternalAge,false
+11,CHI_Weight4Height,IMM_VitaminA1,false
+12,BF_EarlyBreastfeeding,HOU_ModernWallMaterial,false
+13,CHI_Age,BF_EarlyBreastfeeding,false

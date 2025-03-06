@@ -1,0 +1,5 @@
+ID,Variable1,Variable2,TrueOrFalse
+0,smoke,bronc,true
+1,bronc,dysp,true
+2,bronc,lung,false
+3,tub,xray,false

@@ -1,0 +1,5 @@
+ID,Variable1,Variable2,TrueOrFalse
+0,either,dysp,true
+1,bronc,dysp,true
+2,either,bronc,false
+3,bronc,either,false

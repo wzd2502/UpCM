@@ -1,0 +1,10 @@
+ID,Variable1,Dependency,Variable2
+1,BF_BreastfedMonths,->,CHI_Age
+2,CUL_LanguageGroup,->,BF_EarlyBreastfeeding
+3,CUL_LanguageGroup,->,HOU_ModernWallMaterial
+4,ECO_WealthQuintile,->,WSH_WashWithAgent
+5,KNW_WatchTV,->,IMM_Diptheria
+6,MTH_Education,->,KNW_WatchTV
+7,MTH_Education,->,WSH_ImprovedToilet
+8,MTH_Education,->,WSH_WaterTreated
+9,WSH_ImprovedToilet,->,WSH_ImprovedWaterSource

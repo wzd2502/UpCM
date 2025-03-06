@@ -1,0 +1,7 @@
+ID,Parent,Child,TrueOrFalse
+0,ATshots,ATshotsOnTarget,true
+1,RDlevel,ATgoals,true
+2,HTshots,HTshotOnTarget,true
+3,HDA,HTgoals,false
+4,ATshotsOnTarget,HTshotOnTarget,false
+5,ATshots,ATgoals,false

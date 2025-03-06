@@ -1,0 +1,7 @@
+ID,Variable1,Variable2,TrueOrFalse
+0,RDlevel,ATshots,true
+1,possession,ATshots,true
+2,HTgoals,HDA,true
+3,possession,HTshotOnTarget,false
+4,ATgoals,ATshotsOnTarget,false
+5,HTshotOnTarget,possession,false

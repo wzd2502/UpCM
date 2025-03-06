@@ -1,0 +1,13 @@
+ID,Parent,Child,TrueOrFalse
+0,borrowing,interest,true
+1,borrowing,LTV,true
+2,otherPropertyExpenses,propertyExpenses,true
+3,propertyPurchaseValue,LTV,true
+4,propertyPurchaseValue,rentalGrossYield,true
+5,actualRentalIncome,rentalGrossYield,true
+6,interestTaxRelief,propertyManagement,false
+7,incomeTax,otherPropertyExpenses,false
+8,propertyPurchaseValue,incomeTax,false
+9,netProfit,otherInterestFees,false
+10,incomeTax,LTV,false
+11,interestRate,otherPropertyExpenses,false

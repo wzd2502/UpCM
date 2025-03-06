@@ -1,0 +1,7 @@
+ID,Variable1,Dependency,Variable2
+1,CHI_Age,->,IMM_Measles
+2,ECO_WealthQuintile,->,MTH_Education
+3,GEO_Region,->,CUL_LanguageGroup
+4,IMM_Measles,->,IMM_VitaminA1
+5,SRV_Near,->,SRV_OKAlone
+6,WSH_WashWithAgent,->,ECO_WealthQuintile

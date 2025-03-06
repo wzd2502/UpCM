@@ -1,0 +1,16 @@
+ID,Variable1,Dependency,Variable2
+1,ASPD,->,PCLRfactor2
+2,SymptomsOfMentalIllness,->,Anxiety
+3,SymptomsOfMentalIllness,->,ThoughtInsertion
+4,RefuseFailToAttendTherapy,->,AlcoholTreatmentGivenRFAT
+5,HazardousDrinkingAfterRelease,->,HazardousDrinkingPT
+6,CannabisBeforePrisonSentence,->,CannabisDuringPrisonSentence
+7,EcstasyDuringPrisonSentence,->,EcstasyAfterRelease
+8,EcstasyDuringPrisonSentence,->,EcstasyDependence
+9,CannabisDependence,->,AnyDrugDependence
+10,CocainePT,->,SubstanceUse
+11,ResponsivenessToTreatment,->,ResponseToTreatGivenAlcDep
+12,ResponsivenessToTreatment,->,ResponseToTreatGivenDrugDep
+13,DepressionPT,->,SocialWithdraw
+14,Anxiety,->,AnxietyPT
+15,MentalIllnessSymptomCount,->,MentalIllnessDL

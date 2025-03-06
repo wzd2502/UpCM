@@ -1,0 +1,15 @@
+ID,Variable1,Dependency,Variable2
+1,Impulsivity,->,AggressionDL
+2,ASPD,->,Impulsivity
+3,ASPD,->,PCLRfactor2
+4,HazardousDrinkingAfterRelease,->,HazardousDrinkingPT
+5,DrugTreatment,->,DrugTreatmentGivenRFAT
+6,DrugTreatmentGivenRFAT,->,RefuseFailToAttendTherapy
+7,DrugTreatmentGivenRFAT,->,EcstasyPT
+8,CocainePT,->,SubstanceUse
+9,SocialWithdraw,->,SocialProtectiveObs
+10,ViolentConvictionsRate,->,ViolentConvRateGivenProt
+11,Depression,->,DepressionPT
+12,DepressionPT,->,MentalIllnessSymptomCount
+13,ThoughtInsertion,->,ThoughtInsertionPT
+14,HallucinationsPT,->,Anger

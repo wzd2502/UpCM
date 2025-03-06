@@ -1,0 +1,8 @@
+ID,Variable1,Dependency,Variable2
+1,BF_EarlyBreastfeeding,->,DIA_HadDiarrhoea
+2,ECO_WealthQuintile,->,KNW_WatchTV
+3,ECO_WealthQuintile,->,WSH_ImprovedToilet
+4,KNW_WatchTV,->,FP_ModernMethod
+5,MTH_MaternalAge,->,CHI_Age
+6,WSH_ImprovedToilet,->,ECO_WealthQuintile
+7,WSH_ImprovedToilet,->,WSH_SafeStoolDisposal

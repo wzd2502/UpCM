@@ -1,0 +1,14 @@
+ID,Variable1,Dependency,Variable2
+1,NegativeAttitude,->,AttitudeDL
+2,SymptomsOfMentalIllness,->,ThoughtInsertion
+3,CannabisAfterRelease,->,CannabisPT
+4,AlcoholTreatment,->,AlcoholTreatmentGivenRFAT
+5,SubstanceMisuseDL,->,ViolentConvictionsRate
+6,ResponsivenessToTreatment,->,ResponseToTreatGivenAlcDep
+7,AngerManagement,->,AngerManagementGivenRFAT
+8,SocialWithdraw,->,SocialProtectiveObs
+9,DepressionPT,->,SocialWithdraw
+10,AnxietyPT,->,FinancialDifficulties
+11,Hallucinations,->,HallucinationsPT
+12,ParanoidDelusionsPT,->,MentalIllnessSymptomCount
+13,PsychiatricTreatment,->,PsychiatricTreatmentGivenRFAT

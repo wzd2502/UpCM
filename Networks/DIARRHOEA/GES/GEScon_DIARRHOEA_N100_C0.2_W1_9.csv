@@ -1,0 +1,5 @@
+ID,Variable1,Dependency,Variable2
+1,CUL_LanguageGroup,->,GEO_Region
+2,GEO_Region,->,CUL_Religion
+3,HOU_CookingFuel,->,WSH_WaterTreated
+4,IMM_VitaminA1,->,IMM_Measles

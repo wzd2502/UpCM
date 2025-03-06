@@ -1,0 +1,5 @@
+ID,Variable1,Variable2,TrueOrFalse
+0,asia,tub,true
+1,tub,either,true
+2,either,tub,false
+3,tub,bronc,false

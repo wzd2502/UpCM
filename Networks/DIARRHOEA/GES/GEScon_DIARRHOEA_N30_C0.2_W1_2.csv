@@ -1,0 +1,8 @@
+ID,Variable1,Dependency,Variable2
+1,CHI_Age,->,IMM_Measles
+2,CUL_LanguageGroup,->,HOU_ModernWallMaterial
+3,ECO_WealthQuintile,->,SRV_Near
+4,GEO_Region,->,CUL_LanguageGroup
+5,KNW_WatchTV,->,WSH_ImprovedToilet
+6,SRV_OKAlone,->,BF_BottleFeeding
+7,WSH_ImprovedWaterSource,->,WSH_WaterTreated

@@ -1,0 +1,17 @@
+ID,Variable1,Dependency,Variable2
+1,Impulsivity,->,AggressionDL
+2,RefuseFailToAttendTherapy,->,PsychiatricTreatmentGivenRFAT
+3,HazardousDrinkingAfterRelease,->,HazardousDrinkingPT
+4,CocaineBeforePrisonSentence,->,CocaineAfterRelease
+5,CannabisAfterRelease,->,CannabisPT
+6,CocaineAfterRelease,->,AngerPT
+7,AlcoholDependence,->,HazardousDrinkingAfterRelease
+8,ResponsivenessToTreatment,->,ResponseToTreatGivenDrugDep
+9,ResponseToTreatGivenDrugDep,->,CocainePT
+10,Anger,->,AngerPT
+11,SocialProtectiveObs,->,CocainePT
+12,ViolentConvRateGivenProt,->,ViolentConvictions
+13,ThoughtInsertionPT,->,MentalIllnessSymptomCount
+14,PsychiatricTreatment,->,PsychiatricTreatmentGivenRFAT
+15,PsychiatricTreatmentGivenRFAT,->,HallucinationsPT
+16,MentalIllnessSymptomCount,->,MentalIllnessDL

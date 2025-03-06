@@ -1,0 +1,5 @@
+ID,Variable1,Dependency,Variable2
+1,ECO_WealthQuintile,->,MTH_Education
+2,GEO_Region,->,CUL_LanguageGroup
+3,WSH_ImprovedToilet,->,WSH_ImprovedWaterSource
+4,WSH_ImprovedToilet,->,WSH_SafeStoolDisposal

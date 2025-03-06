@@ -1,0 +1,7 @@
+ID,Variable1,Dependency,Variable2
+1,CHI_Age,->,BF_BreastfedMonths
+2,CUL_LanguageGroup,->,HOU_ModernWallMaterial
+3,ECO_WealthQuintile,->,KNW_WatchTV
+4,ECO_WealthQuintile,->,WSH_ImprovedToilet
+5,ECO_WealthQuintile,->,WSH_ImprovedWaterSource
+6,HOU_ModernWallMaterial,->,SRV_OKAlone

@@ -1,0 +1,7 @@
+ID,Parent,Child,TrueOrFalse
+0,capitalGrowth,capitalGains,true
+1,propertyPurchaseValue,propertyValueT+1,true
+2,borrowing,interest,true
+3,rentalGrossProfit,interest,false
+4,otherPropertyExpensesT+1,capitalGrowth,false
+5,propertyExpenses,actualRentalIncome,false

@@ -1,0 +1,10 @@
+ID,Variable1,Dependency,Variable2
+1,RefuseFailToAttendTherapy,->,DrugTreatmentGivenRFAT
+2,HazardousDrinkingAfterRelease,->,HazardousDrinkingPT
+3,CocaineDuringPrisonSentence,->,CocaineAfterRelease
+4,EcstasyAfterRelease,->,EcstasyPT
+5,Violence,->,CocaineDuringPrisonSentence
+6,ResponseToTreatGivenAlcDep,->,ResponseToTreatGivenDrugDep
+7,AggressionDL,->,ViolentConvictionsRate
+8,ViolentConvictionsRate,->,ViolentConvRateGivenProt
+9,DepressionPT,->,MentalIllnessSymptomCount

@@ -1,0 +1,7 @@
+ID,Variable1,Dependency,Variable2
+1,CUL_LanguageGroup,->,GEO_Region
+2,CUL_LanguageGroup,->,HOU_ModernWallMaterial
+3,ECO_WealthQuintile,->,BF_BottleFeeding
+4,GEO_Region,->,WSH_ImprovedWaterSource
+5,IMM_Measles,->,HOU_CookingFuel
+6,MTH_Education,->,KNW_WatchTV

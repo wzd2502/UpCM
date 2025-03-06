@@ -1,0 +1,6 @@
+ID,Variable1,Dependency,Variable2
+1,BF_EarlyBreastfeeding,->,HOU_CookingFuel
+2,GEO_Region,->,CUL_LanguageGroup
+3,KNW_WatchTV,->,IMM_Measles
+4,SRV_Near,->,SRV_OKAlone
+5,WSH_ImprovedWaterSource,->,WSH_ImprovedToilet

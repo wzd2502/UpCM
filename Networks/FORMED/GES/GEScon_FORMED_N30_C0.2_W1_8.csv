@@ -1,0 +1,15 @@
+ID,Variable1,Dependency,Variable2
+1,Victimisation,->,ProblematicLifeEvents
+2,RefuseFailToAttendTherapy,->,PsychiatricTreatmentGivenRFAT
+3,HazardousDrinkingAfterRelease,->,HazardousDrinkingPT
+4,CannabisBeforePrisonSentence,->,CannabisDuringPrisonSentence
+5,EcstasyDuringPrisonSentence,->,EcstasyDependence
+6,CannabisAfterRelease,->,CannabisPT
+7,EcstasyAfterRelease,->,EcstasyPT
+8,EcstasyDependence,->,SubstanceUse
+9,AlcoholTreatment,->,AlcoholTreatmentGivenRFAT
+10,EcstasyPT,->,SubstanceUse
+11,ViolentConvictions,->,Violence
+12,ResponseToTreatGivenDrugDep,->,ResponseToTreatGivenAlcDep
+13,SocialWithdraw,->,SocialProtectiveObs
+14,PsychiatricTreatment,->,PsychiatricTreatmentGivenRFAT

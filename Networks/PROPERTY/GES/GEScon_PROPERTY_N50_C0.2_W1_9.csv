@@ -1,0 +1,3 @@
+ID,Variable1,Dependency,Variable2
+1,propertyPurchaseValue,->,propertyValueT+1
+2,propertyPurchaseValue,->,stampDutyTaxBand

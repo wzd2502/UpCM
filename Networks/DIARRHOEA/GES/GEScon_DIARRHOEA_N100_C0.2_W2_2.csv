@@ -1,0 +1,7 @@
+ID,Variable1,Dependency,Variable2
+1,ECO_WealthQuintile,->,HOU_CookingFuel
+2,IMM_Diptheria,->,IMM_Measles
+3,MTH_Education,->,IMM_Measles
+4,SRV_Near,->,SRV_OKAlone
+5,WSH_ImprovedToilet,->,WSH_SafeStoolDisposal
+6,WSH_SafeStoolDisposal,->,SRV_Near

@@ -1,0 +1,16 @@
+ID,Variable1,Dependency,Variable2
+1,Impulsivity,->,AggressionDL
+2,CriminalNetwork,->,GangMember
+3,HazardousDrinkingAfterRelease,->,AlcoholDependence
+4,EcstasyBeforePrisonSentence,->,EcstasyAfterRelease
+5,CocaineAfterRelease,->,CocainePT
+6,CannabisDependence,->,AnyDrugDependence
+7,CocaineDependence,->,AnyDrugDependence
+8,DrugTreatment,->,DrugTreatmentGivenRFAT
+9,CannabisPT,->,SubstanceUse
+10,ResponseToTreatGivenAlcDep,->,ResponseToTreatGivenDrugDep
+11,AttitudeDL,->,CriminalNetwork
+12,ViolentConvRateGivenProt,->,ViolentConvictions
+13,DepressionPT,->,MentalIllnessSymptomCount
+14,PsychiatricTreatment,->,PsychiatricTreatmentGivenRFAT
+15,PsychiatricTreatmentGivenRFAT,->,HallucinationsPT

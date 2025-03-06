@@ -1,0 +1,17 @@
+ID,Variable1,Dependency,Variable2
+1,ViolentThoughts,->,Victimisation
+2,Impulsivity,->,AggressionDL
+3,CriminalAttitude,->,AttitudeDL
+4,RefuseFailToAttendTherapy,->,DrugTreatmentGivenRFAT
+5,CannabisBeforePrisonSentence,->,CannabisDuringPrisonSentence
+6,CannabisDependence,->,AnyDrugDependence
+7,DrugTreatment,->,DrugTreatmentGivenRFAT
+8,SubstanceMisuseDL,->,ViolentConvictionsRate
+9,ResponseToTreatGivenDrugDep,->,ResponseToTreatGivenAlcDep
+10,HazardousDrinkingPT,->,SubstanceUse
+11,ViolentConvictionsRate,->,ViolentConvRateGivenProt
+12,ThoughtInsertion,->,ThoughtInsertionPT
+13,ParanoidDelusions,->,SocialWithdraw
+14,ParanoidDelusionsPT,->,MentalIllnessSymptomCount
+15,PsychiatricTreatmentGivenRFAT,->,RefuseFailToAttendTherapy
+16,MentalIllnessSymptomCount,->,MentalIllnessDL

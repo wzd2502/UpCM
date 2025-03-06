@@ -1,0 +1,5 @@
+ID,Parent,Child,TrueOrFalse
+0,either,dysp,true
+1,smoke,bronc,true
+2,xray,tub,false
+3,tub,xray,false

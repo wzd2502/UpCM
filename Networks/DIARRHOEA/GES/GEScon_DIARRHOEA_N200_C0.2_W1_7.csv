@@ -1,0 +1,11 @@
+ID,Variable1,Dependency,Variable2
+1,CHI_Age,->,IMM_Measles
+2,CUL_LanguageGroup,->,HOU_ModernWallMaterial
+3,ECO_WealthQuintile,->,MTH_Education
+4,ECO_WealthQuintile,->,WSH_SafeStoolDisposal
+5,ECO_WealthQuintile,->,WSH_WashWithAgent
+6,GEO_Region,->,CUL_LanguageGroup
+7,HOU_CookingFuel,->,WSH_WaterTreated
+8,IMM_Diptheria,->,IMM_Measles
+9,IMM_Measles,->,IMM_Diptheria
+10,WSH_SafeStoolDisposal,->,ECO_WealthQuintile

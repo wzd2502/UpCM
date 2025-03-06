@@ -1,0 +1,3 @@
+ID,Variable1,Dependency,Variable2
+1,IMM_Diptheria,->,IMM_Measles
+2,KNW_WatchTV,->,ECO_WealthQuintile

@@ -1,0 +1,5 @@
+ID,Parent,Child,TrueOrFalse
+0,smoke,bronc,true
+1,bronc,dysp,true
+2,smoke,asia,false
+3,dysp,bronc,false

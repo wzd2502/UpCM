@@ -1,0 +1,15 @@
+ID,Parent,Child,TrueOrFalse
+0,GEO_Region,WSH_ImprovedWaterSource,true
+1,CUL_LanguageGroup,BF_EarlyBreastfeeding,true
+2,CUL_LanguageGroup,ECO_WealthQuintile,true
+3,GEO_Region,BF_BottleFeeding,true
+4,ECO_WealthQuintile,WSH_SafeStoolDisposal,true
+5,MTH_Education,WSH_WaterTreated,true
+6,WSH_SafeStoolDisposal,DIA_HadDiarrhoea,true
+7,WSH_WaterTreated,MTH_Education,false
+8,HOU_ModernWallMaterial,DEL_SmallBaby,false
+9,CUL_Religion,BF_BottleFeeding,false
+10,ECO_WealthQuintile,CHI_Age,false
+11,BF_EarlyBreastfeeding,MTH_MaternalAge,false
+12,KNW_WatchTV,DEL_SmallBaby,false
+13,CUL_LanguageGroup,DIA_HadDiarrhoea,false

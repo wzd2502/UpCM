@@ -1,0 +1,13 @@
+ID,Variable1,Variable2,TrueOrFalse
+0,otherPropertyExpenses,propertyExpenses,true
+1,rentalIncomeLoss%,actualRentalIncome,true
+2,actualRentalIncome,rentalIncomeT+1,true
+3,propertyPurchaseValue,capitalGains,true
+4,propertyPurchaseValue,rentalGrossYield,true
+5,capitalGains,propertyValueT+1,true
+6,borrowing,otherPropertyExpensesT+1,false
+7,propertyValueT+1,rentalGrossProfit,false
+8,rentalIncomeT+1,otherPropertyExpensesT+1,false
+9,interestTaxRelief,otherInterestFees,false
+10,propertyExpenses,propertyPurchaseValue,false
+11,rentalNetProfitBeforeInterest,rentalGrossYield,false

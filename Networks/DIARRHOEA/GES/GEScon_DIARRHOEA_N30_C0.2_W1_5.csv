@@ -1,0 +1,5 @@
+ID,Variable1,Dependency,Variable2
+1,IMM_Measles,->,IMM_Diptheria
+2,IMM_VitaminA1,->,IMM_Measles
+3,SRV_Near,->,SRV_OKAlone
+4,WSH_ImprovedToilet,->,ECO_WealthQuintile

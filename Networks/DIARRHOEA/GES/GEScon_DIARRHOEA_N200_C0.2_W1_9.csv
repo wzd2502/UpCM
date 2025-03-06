@@ -1,0 +1,8 @@
+ID,Variable1,Dependency,Variable2
+1,BF_BreastfedMonths,->,CHI_Age
+2,CUL_LanguageGroup,->,WSH_ImprovedWaterSource
+3,ECO_WealthQuintile,->,HOU_CookingFuel
+4,GEO_Region,->,CUL_LanguageGroup
+5,IMM_Diptheria,->,IMM_Measles
+6,IMM_VitaminA1,->,IMM_Measles
+7,MTH_Education,->,KNW_WatchTV

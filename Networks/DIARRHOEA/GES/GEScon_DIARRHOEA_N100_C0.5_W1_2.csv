@@ -1,0 +1,12 @@
+ID,Variable1,Dependency,Variable2
+1,CUL_LanguageGroup,->,HOU_ModernWallMaterial
+2,ECO_WealthQuintile,->,SRV_OKAlone
+3,ECO_WealthQuintile,->,WSH_SafeStoolDisposal
+4,GEO_Region,->,CUL_LanguageGroup
+5,IMM_Diptheria,->,IMM_Measles
+6,IMM_Diptheria,->,IMM_VitaminA1
+7,IMM_Measles,->,CHI_Age
+8,IMM_Measles,->,DIA_HadDiarrhoea
+9,MTH_Education,->,KNW_WatchTV
+10,WSH_ImprovedToilet,->,ECO_WealthQuintile
+11,WSH_ImprovedWaterSource,->,WSH_WaterTreated

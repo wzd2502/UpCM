@@ -1,0 +1,8 @@
+ID,Variable1,Dependency,Variable2
+1,CUL_LanguageGroup,->,HOU_ModernWallMaterial
+2,ECO_WealthQuintile,->,KNW_WatchTV
+3,GEO_Region,->,CUL_LanguageGroup
+4,IMM_VitaminA1,->,IMM_Measles
+5,WSH_ImprovedToilet,->,WSH_ImprovedWaterSource
+6,WSH_ImprovedToilet,->,WSH_WashWithAgent
+7,WSH_WashWithAgent,->,DIA_HadDiarrhoea

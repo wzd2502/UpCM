@@ -1,0 +1,15 @@
+ID,Variable1,Dependency,Variable2
+1,ASPD,->,PCLRfactor2
+2,CriminalFamilyBackground,->,CriminalNetwork
+3,FinancialDifficulties,->,Impulsivity
+4,RefuseFailToAttendTherapy,->,AlcoholTreatmentGivenRFAT
+5,CocaineBeforePrisonSentence,->,ViolentThoughts
+6,CocaineBeforePrisonSentence,->,CocaineDuringPrisonSentence
+7,CannabisDependence,->,AnyDrugDependence
+8,DrugTreatment,->,DrugTreatmentGivenRFAT
+9,ViolentConvictions,->,Violence
+10,ResponsivenessToTreatment,->,ResponseToTreatGivenAlcDep
+11,HazardousDrinkingPT,->,SubstanceUse
+12,ViolentConvRateGivenProt,->,ViolentConvictions
+13,DepressionPT,->,FinancialDifficulties
+14,MentalIllnessDL,->,ViolentConvictionsRate

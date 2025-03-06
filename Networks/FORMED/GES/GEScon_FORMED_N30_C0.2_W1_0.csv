@@ -1,0 +1,13 @@
+ID,Variable1,Dependency,Variable2
+1,ComplianceWithSupervision,->,NegativeAttitude
+2,HazardousDrinkingAfterRelease,->,HazardousDrinkingPT
+3,CocaineAfterRelease,->,CocainePT
+4,EcstasyAfterRelease,->,EcstasyPT
+5,DrugTreatment,->,DrugTreatmentGivenRFAT
+6,AlcoholTreatmentGivenRFAT,->,CannabisDependence
+7,Violence,->,Gender
+8,ViolentConvictions,->,Violence
+9,ResponsivenessToTreatment,->,ResponseToTreatGivenAlcDep
+10,ResponsivenessToTreatment,->,ResponseToTreatGivenDrugDep
+11,Anxiety,->,AnxietyPT
+12,ThoughtInsertion,->,ThoughtInsertionPT

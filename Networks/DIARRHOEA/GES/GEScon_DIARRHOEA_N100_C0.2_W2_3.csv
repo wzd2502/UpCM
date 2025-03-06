@@ -1,0 +1,7 @@
+ID,Variable1,Dependency,Variable2
+1,CHI_Age,->,IMM_Measles
+2,CHI_Age,->,IMM_VitaminA1
+3,GEO_Region,->,CUL_LanguageGroup
+4,IMM_Measles,->,IMM_Diptheria
+5,KNW_WatchTV,->,ECO_WealthQuintile
+6,WSH_WaterTreated,->,HOU_CookingFuel

@@ -1,0 +1,17 @@
+ID,Parent,Child,TrueOrFalse
+0,RDlevel,possession,true
+1,possession,ATshots,true
+2,RDlevel,ATgoals,true
+3,HTshots,HTshotOnTarget,true
+4,RDlevel,HTshots,true
+5,RDlevel,ATshotsOnTarget,true
+6,ATshots,ATshotsOnTarget,true
+7,RDlevel,HTshotOnTarget,true
+8,possession,HTgoals,false
+9,HTgoals,ATgoals,false
+10,ATshots,ATgoals,false
+11,HTshotOnTarget,possession,false
+12,HTshotOnTarget,HDA,false
+13,HTshots,HTgoals,false
+14,possession,ATshotsOnTarget,false
+15,ATshotsOnTarget,HTshotOnTarget,false

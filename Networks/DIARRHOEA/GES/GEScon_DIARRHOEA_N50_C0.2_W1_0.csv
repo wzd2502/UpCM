@@ -1,0 +1,6 @@
+ID,Variable1,Dependency,Variable2
+1,BF_BottleFeeding,->,HOU_CookingFuel
+2,GEO_Region,->,CUL_LanguageGroup
+3,MTH_Education,->,KNW_WatchTV
+4,WSH_ImprovedToilet,->,WSH_ImprovedWaterSource
+5,WSH_ImprovedWaterSource,->,WSH_WaterTreated

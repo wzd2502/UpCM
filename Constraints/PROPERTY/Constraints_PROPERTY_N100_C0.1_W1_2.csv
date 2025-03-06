@@ -1,0 +1,7 @@
+ID,Parent,Child,TrueOrFalse
+0,propertyPurchaseValue,propertyValueT+1,true
+1,rentalIncomeLoss%,actualRentalIncome,true
+2,rentalGrowth,rentalIncomeT+1,true
+3,propertyPurchaseValue,rentalGrossProfit,false
+4,rentalIncomeLoss%,rentalIncomeT+1,false
+5,propertyManagement,interestRate,false

@@ -1,0 +1,15 @@
+ID,Parent,Child,TrueOrFalse
+0,ECO_WealthQuintile,SRV_Near,true
+1,ECO_WealthQuintile,BF_BreastfedMonths,true
+2,GEO_Region,WSH_ImprovedWaterSource,true
+3,MTH_Education,BF_BottleFeeding,true
+4,ECO_WealthQuintile,DEL_SmallBaby,true
+5,GEO_Region,BF_EarlyBreastfeeding,true
+6,CHI_Age,BF_BottleFeeding,true
+7,CUL_LanguageGroup,CHI_Age,false
+8,WSH_WaterTreated,CHI_Age,false
+9,HOU_CookingFuel,WSH_SafeStoolDisposal,false
+10,WSH_ImprovedToilet,ECO_WealthQuintile,false
+11,BF_EarlyBreastfeeding,HOU_CookingFuel,false
+12,KNW_WatchTV,CUL_Religion,false
+13,IMM_Diptheria,CHI_Weight4Height,false

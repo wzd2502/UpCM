@@ -1,0 +1,11 @@
+ID,Variable1,Dependency,Variable2
+1,CUL_LanguageGroup,->,WSH_ImprovedWaterSource
+2,ECO_WealthQuintile,->,MTH_Education
+3,ECO_WealthQuintile,->,WSH_WashWithAgent
+4,GEO_Region,->,CUL_LanguageGroup
+5,IMM_Measles,->,IMM_Diptheria
+6,MTH_Education,->,KNW_WatchTV
+7,MTH_Education,->,SRV_Near
+8,MTH_MaternalAge,->,FP_ModernMethod
+9,WSH_ImprovedWaterSource,->,WSH_WaterTreated
+10,WSH_WaterTreated,->,DIA_HadDiarrhoea

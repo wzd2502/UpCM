@@ -1,0 +1,4 @@
+ID,Variable1,Dependency,Variable2
+1,otherPropertyExpenses,->,propertyExpenses
+2,stampDutyTaxBand,->,stampDutyTax
+3,otherPropertyExpensesT+1,->,otherPropertyExpenses

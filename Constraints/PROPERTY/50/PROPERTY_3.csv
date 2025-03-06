@@ -1,0 +1,13 @@
+ID,Variable1,Variable2,TrueOrFalse
+0,actualRentalIncome,rentalGrossProfit,true
+1,propertyExpensesGrowth,otherPropertyExpensesT+1,true
+2,propertyPurchaseValue,stampDutyTaxBand,true
+3,propertyPurchaseValue,capitalGains,true
+4,rentalNetProfitBeforeInterest,netProfit,true
+5,propertyManagement,propertyExpenses,true
+6,interestTaxRelief,propertyExpensesGrowth,false
+7,propertyValueT+1,propertyManagement,false
+8,propertyPurchaseValue,propertyExpensesGrowth,false
+9,propertyManagement,interestTaxRelief,false
+10,otherPropertyExpensesT+1,LTV,false
+11,actualRentalIncome,propertyValueT+1,false

@@ -1,0 +1,7 @@
+ID,Parent,Child,TrueOrFalse
+0,either,dysp,true
+1,bronc,dysp,true
+2,either,lung,false
+3,asia,either,false
+4,tub,dysp,false
+5,bronc,either,false

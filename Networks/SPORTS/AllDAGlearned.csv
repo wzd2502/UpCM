@@ -1,0 +1,181 @@
+ID,Variable 1,Dependency,Variable 2
+1,HDA,->,HTgoals
+2,HDA,->,ATgoals
+ID,Variable 1,Dependency,Variable 2
+1,HDA,->,HTgoals
+2,HDA,->,ATgoals
+ID,Variable 1,Dependency,Variable 2
+1,HDA,->,HTgoals
+2,HDA,->,ATgoals
+ID,Variable 1,Dependency,Variable 2
+1,HDA,->,HTgoals
+2,HDA,->,ATgoals
+ID,Variable 1,Dependency,Variable 2
+1,HDA,->,HTgoals
+2,HDA,->,ATgoals
+ID,Variable 1,Dependency,Variable 2
+1,HDA,->,HTgoals
+2,HDA,->,ATgoals
+ID,Variable 1,Dependency,Variable 2
+1,HTgoals,->,HDA
+ID,Variable 1,Dependency,Variable 2
+1,HTgoals,->,HDA
+ID,Variable 1,Dependency,Variable 2
+1,HDA,->,HTgoals
+2,HDA,->,ATgoals
+ID,Variable 1,Dependency,Variable 2
+1,HDA,->,HTgoals
+2,HDA,->,ATgoals
+ID,Variable 1,Dependency,Variable 2
+1,HTgoals,->,HDA
+ID,Variable 1,Dependency,Variable 2
+1,HTgoals,->,HDA
+ID,Variable 1,Dependency,Variable 2
+1,ATshots,->,ATshotsOnTarget
+2,HTgoals,->,HDA
+ID,Variable 1,Dependency,Variable 2
+1,RDlevel,->,HTshotOnTarget
+2,ATshots,->,ATshotsOnTarget
+3,HTshotOnTarget,->,ATshots
+4,HTshotOnTarget,->,HTgoals
+5,ATshotsOnTarget,->,RDlevel
+6,HTgoals,->,HDA
+7,HDA,->,HTshots
+ID,Variable 1,Dependency,Variable 2
+1,HTgoals,->,HDA
+2,HDA,->,ATshotsOnTarget
+ID,Variable 1,Dependency,Variable 2
+1,RDlevel,->,ATshotsOnTarget
+2,RDlevel,->,ATgoals
+3,HTshotOnTarget,->,RDlevel
+4,HTshotOnTarget,->,ATshots
+5,HTshotOnTarget,->,ATshotsOnTarget
+6,possession,->,ATshots
+7,ATgoals,->,HDA
+ID,Variable 1,Dependency,Variable 2
+1,ATshots,->,ATshotsOnTarget
+2,HTshotOnTarget,->,HTshots
+3,HTgoals,->,HDA
+ID,Variable 1,Dependency,Variable 2
+1,HTgoals,->,HDA
+ID,Variable 1,Dependency,Variable 2
+ID,Variable 1,Dependency,Variable 2
+1,RDlevel,->,ATshots
+2,RDlevel,->,HTshotOnTarget
+3,RDlevel,->,ATshotsOnTarget
+4,ATshotsOnTarget,->,possession
+5,possession,->,HTgoals
+6,HTgoals,->,HTshots
+7,ATgoals,->,HDA
+ID,Variable 1,Dependency,Variable 2
+1,RDlevel,->,HTshots
+2,RDlevel,->,possession
+3,RDlevel,->,ATgoals
+4,HTshots,->,HTshotOnTarget
+5,ATshotsOnTarget,->,ATshots
+6,ATshotsOnTarget,->,ATgoals
+7,possession,->,ATshotsOnTarget
+8,HTgoals,->,possession
+9,ATgoals,->,HTshotOnTarget
+10,ATgoals,->,HDA
+ID,Variable 1,Dependency,Variable 2
+1,RDlevel,->,HTshotOnTarget
+2,RDlevel,->,possession
+3,HTshots,->,HTshotOnTarget
+4,HTshots,->,possession
+5,ATshots,->,RDlevel
+6,HTshotOnTarget,->,HTgoals
+7,ATshotsOnTarget,->,ATshots
+8,ATshotsOnTarget,->,ATgoals
+9,ATgoals,->,HDA
+10,HDA,->,possession
+ID,Variable 1,Dependency,Variable 2
+1,RDlevel,->,ATshots
+2,RDlevel,->,possession
+3,HTshots,->,HTshotOnTarget
+4,ATshots,->,ATshotsOnTarget
+5,ATshots,->,HTgoals
+6,ATshots,->,ATgoals
+7,ATshotsOnTarget,->,HTshotOnTarget
+8,possession,->,HTshots
+9,HTgoals,->,RDlevel
+10,HTgoals,->,HTshotOnTarget
+11,ATgoals,->,HDA
+ID,Variable 1,Dependency,Variable 2
+1,RDlevel,->,HTshotOnTarget
+2,HTshots,->,HTshotOnTarget
+3,ATshots,->,ATshotsOnTarget
+4,ATshots,->,possession
+5,HTshotOnTarget,->,ATshots
+6,ATshotsOnTarget,->,RDlevel
+7,possession,->,RDlevel
+8,HDA,->,HTshots
+9,HDA,->,HTgoals
+10,HDA,->,ATgoals
+ID,Variable 1,Dependency,Variable 2
+1,RDlevel,->,ATgoals
+2,HTshotOnTarget,->,HTshots
+3,HTshotOnTarget,->,ATshots
+4,HTshotOnTarget,->,HDA
+5,ATshotsOnTarget,->,RDlevel
+6,ATshotsOnTarget,->,ATshots
+7,possession,->,RDlevel
+8,possession,->,HTshots
+9,HTgoals,->,HDA
+10,ATgoals,->,HDA
+ID,Variable 1,Dependency,Variable 2
+1,RDlevel,->,ATshotsOnTarget
+2,RDlevel,->,possession
+3,RDlevel,->,ATgoals
+4,HTshots,->,HTshotOnTarget
+5,HTshots,->,HDA
+6,ATshots,->,HDA
+7,HTshotOnTarget,->,ATshots
+8,HTshotOnTarget,->,ATshotsOnTarget
+9,possession,->,ATshots
+10,HTgoals,->,HTshotOnTarget
+11,HTgoals,->,HDA
+12,ATgoals,->,HDA
+ID,Variable 1,Dependency,Variable 2
+1,HTshots,->,HTshotOnTarget
+2,HTshots,->,ATgoals
+3,ATshots,->,HTshotOnTarget
+4,ATshots,->,ATshotsOnTarget
+5,ATshotsOnTarget,->,ATgoals
+6,possession,->,RDlevel
+7,possession,->,HTshotOnTarget
+8,HTgoals,->,HTshotOnTarget
+9,ATgoals,->,HDA
+10,HDA,->,HTgoals
+ID,Variable 1,Dependency,Variable 2
+1,RDlevel,->,ATshots
+2,RDlevel,->,HTgoals
+3,ATshots,->,ATshotsOnTarget
+4,HTshotOnTarget,->,possession
+5,HTshotOnTarget,->,HTgoals
+6,possession,->,HTshots
+7,possession,->,ATshots
+8,HTgoals,->,HDA
+9,ATgoals,->,ATshotsOnTarget
+10,HDA,->,ATgoals
+ID,Variable 1,Dependency,Variable 2
+1,RDlevel,->,HTshots
+2,HTshotOnTarget,->,HTgoals
+3,HTshotOnTarget,->,ATgoals
+4,HTshotOnTarget,->,HDA
+5,ATshotsOnTarget,->,ATshots
+6,ATshotsOnTarget,->,ATgoals
+7,possession,->,ATshots
+8,possession,->,ATgoals
+9,HTgoals,->,HTshots
+ID,Variable 1,Dependency,Variable 2
+1,RDlevel,->,ATshots
+2,RDlevel,->,HTshotOnTarget
+3,RDlevel,->,ATshotsOnTarget
+4,ATshots,->,HTshots
+5,HTshotOnTarget,->,HTshots
+6,ATshotsOnTarget,->,possession
+7,HTgoals,->,HTshots
+8,ATgoals,->,ATshotsOnTarget
+9,HDA,->,HTgoals
+10,HDA,->,ATgoals

@@ -1,0 +1,5 @@
+ID,Variable1,Dependency,Variable2
+1,GEO_Region,->,CUL_LanguageGroup
+2,IMM_Diptheria,->,IMM_Measles
+3,IMM_Measles,->,CHI_Age
+4,IMM_VitaminA1,->,IMM_Measles

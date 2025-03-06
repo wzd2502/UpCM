@@ -1,0 +1,6 @@
+ID,Variable1,Dependency,Variable2
+1,CHI_Age,->,BF_BreastfedMonths
+2,IMM_Diptheria,->,IMM_Measles
+3,IMM_Diptheria,->,WSH_WaterTreated
+4,MTH_MaternalAge,->,CHI_Age
+5,WSH_ImprovedWaterSource,->,WSH_WaterTreated

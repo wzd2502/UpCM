@@ -1,0 +1,7 @@
+ID,Variable1,Dependency,Variable2
+1,CHI_Age,->,IMM_VitaminA1
+2,IMM_Diptheria,->,IMM_Measles
+3,MTH_Education,->,SRV_Near
+4,SRV_Near,->,SRV_OKAlone
+5,WSH_ImprovedWaterSource,->,WSH_WaterTreated
+6,WSH_WaterTreated,->,CUL_Religion

@@ -1,0 +1,9 @@
+ID,Variable1,Dependency,Variable2
+1,BF_EarlyBreastfeeding,->,DIA_HadDiarrhoea
+2,CUL_LanguageGroup,->,GEO_Region
+3,CUL_LanguageGroup,->,HOU_CookingFuel
+4,GEO_Region,->,WSH_ImprovedToilet
+5,GEO_Region,->,WSH_ImprovedWaterSource
+6,IMM_Diptheria,->,IMM_Measles
+7,IMM_VitaminA1,->,IMM_Measles
+8,SRV_Near,->,SRV_OKAlone

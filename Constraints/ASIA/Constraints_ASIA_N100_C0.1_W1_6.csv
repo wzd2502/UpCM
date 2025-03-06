@@ -1,0 +1,3 @@
+ID,Parent,Child,TrueOrFalse
+0,smoke,bronc,true
+1,lung,smoke,false

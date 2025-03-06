@@ -1,0 +1,6 @@
+ID,Variable1,Dependency,Variable2
+1,CHI_Age,->,IMM_Measles
+2,ECO_WealthQuintile,->,KNW_WatchTV
+3,ECO_WealthQuintile,->,WSH_WashWithAgent
+4,KNW_WatchTV,->,HOU_CookingFuel
+5,WSH_ImprovedToilet,->,WSH_ImprovedWaterSource

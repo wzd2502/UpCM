@@ -1,0 +1,6 @@
+ID,Variable1,Dependency,Variable2
+1,ECO_WealthQuintile,->,WSH_ImprovedToilet
+2,GEO_Region,->,WSH_ImprovedWaterSource
+3,MTH_Education,->,SRV_Near
+4,SRV_Near,->,MTH_Education
+5,SRV_Near,->,SRV_OKAlone

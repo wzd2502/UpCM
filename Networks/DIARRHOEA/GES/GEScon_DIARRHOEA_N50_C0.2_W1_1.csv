@@ -1,0 +1,4 @@
+ID,Variable1,Dependency,Variable2
+1,CUL_LanguageGroup,->,WSH_ImprovedWaterSource
+2,ECO_WealthQuintile,->,KNW_WatchTV
+3,WSH_ImprovedWaterSource,->,CUL_LanguageGroup

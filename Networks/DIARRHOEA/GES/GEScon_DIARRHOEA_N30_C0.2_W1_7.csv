@@ -1,0 +1,5 @@
+ID,Variable1,Dependency,Variable2
+1,BF_BottleFeeding,->,DIA_HadDiarrhoea
+2,ECO_WealthQuintile,->,FP_BirthsLast5Yrs
+3,GEO_Region,->,CUL_LanguageGroup
+4,KNW_WatchTV,->,FP_ModernMethod

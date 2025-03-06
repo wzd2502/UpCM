@@ -1,0 +1,7 @@
+ID,Parent,Child,TrueOrFalse
+0,rentalIncomeLoss%,actualRentalIncome,true
+1,capitalGains,propertyValueT+1,true
+2,rentalIncome,actualRentalIncome,true
+3,rentalGrowth,otherPropertyExpensesT+1,false
+4,interestTaxRelief,interestRate,false
+5,otherPropertyExpensesT+1,stampDutyTax,false

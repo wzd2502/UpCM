@@ -1,0 +1,15 @@
+ID,Variable1,Dependency,Variable2
+1,ASPD,->,PCLRfactor2
+2,HazardousDrinkingAfterRelease,->,AlcoholDependence
+3,CannabisBeforePrisonSentence,->,CannabisDuringPrisonSentence
+4,CocaineAfterRelease,->,CocainePT
+5,CocaineDependence,->,AnyDrugDependence
+6,AlcoholTreatment,->,AlcoholTreatmentGivenRFAT
+7,CannabisPT,->,SubstanceUse
+8,ViolentConvictions,->,Violence
+9,ResponsivenessToTreatment,->,ResponseToTreatGivenAlcDep
+10,Anger,->,AngerPT
+11,AngerManagement,->,AngerManagementGivenRFAT
+12,ViolentConvictionsRate,->,ViolentConvRateGivenProt
+13,ThoughtInsertion,->,ThoughtInsertionPT
+14,MentalIllnessSymptomCount,->,MentalIllnessDL

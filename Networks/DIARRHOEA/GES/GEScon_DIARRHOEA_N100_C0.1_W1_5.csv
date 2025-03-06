@@ -1,0 +1,4 @@
+ID,Variable1,Dependency,Variable2
+1,FP_BirthsLast5Yrs,->,CHI_Age
+2,GEO_Region,->,CUL_LanguageGroup
+3,WSH_ImprovedWaterSource,->,WSH_ImprovedToilet

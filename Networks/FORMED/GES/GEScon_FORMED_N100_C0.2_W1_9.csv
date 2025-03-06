@@ -1,0 +1,12 @@
+ID,Variable1,Dependency,Variable2
+1,CriminalNetwork,->,CriminalAttitude
+2,SymptomsOfMentalIllness,->,Anxiety
+3,HazardousDrinkingAfterRelease,->,ParanoidDelusions
+4,CannabisBeforePrisonSentence,->,CannabisDuringPrisonSentence
+5,CocainePT,->,SubstanceUse
+6,ResponsivenessToTreatment,->,ResponseToTreatGivenDrugDep
+7,LivingCircumstances,->,SocialProtectiveObs
+8,Hallucinations,->,HallucinationsPT
+9,HallucinationsPT,->,MentalIllnessSymptomCount
+10,PsychiatricTreatmentGivenRFAT,->,ThoughtInsertionPT
+11,PsychiatricTreatmentGivenRFAT,->,HallucinationsPT

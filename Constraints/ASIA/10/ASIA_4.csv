@@ -1,0 +1,5 @@
+ID,Variable1,Variable2,TrueOrFalse
+0,either,xray,true
+1,tub,either,true
+2,tub,dysp,false
+3,dysp,either,false

@@ -1,0 +1,14 @@
+ID,Variable1,Dependency,Variable2
+1,Impulsivity,->,AggressionDL
+2,ASPD,->,Impulsivity
+3,CriminalNetwork,->,GangMember
+4,ComplianceWithSupervision,->,CriminalAttitude
+5,SymptomsOfMentalIllness,->,ThoughtInsertion
+6,RefuseFailToAttendTherapy,->,DrugTreatmentGivenRFAT
+7,RefuseFailToAttendTherapy,->,PsychiatricTreatmentGivenRFAT
+8,CocaineBeforePrisonSentence,->,CocaineAfterRelease
+9,CocaineDuringPrisonSentence,->,CocaineDependence
+10,CocaineAfterRelease,->,SubstanceMisuseDL
+11,ResponsivenessToTreatment,->,ResponseToTreatGivenAlcDep
+12,ResponsivenessToTreatment,->,ResponseToTreatGivenDrugDep
+13,Anxiety,->,AnxietyPT

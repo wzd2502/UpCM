@@ -1,0 +1,225 @@
+ID,Variable 1,Dependency,Variable 2
+1,smoke,->,bronc
+2,lung,->,smoke
+3,bronc,->,dysp
+4,either,->,tub
+5,either,->,lung
+6,either,->,xray
+ID,Variable 1,Dependency,Variable 2
+1,tub,->,xray
+2,bronc,->,dysp
+3,either,->,lung
+4,either,->,xray
+5,either,->,dysp
+6,xray,->,smoke
+ID,Variable 1,Dependency,Variable 2
+1,asia,->,tub
+2,smoke,->,lung
+3,lung,->,tub
+4,bronc,->,smoke
+5,bronc,->,dysp
+ID,Variable 1,Dependency,Variable 2
+1,lung,->,tub
+2,lung,->,either
+3,bronc,->,smoke
+4,bronc,->,dysp
+5,either,->,tub
+6,either,->,lung
+7,either,->,bronc
+8,either,->,xray
+ID,Variable 1,Dependency,Variable 2
+1,tub,->,lung
+2,bronc,->,smoke
+3,bronc,->,dysp
+4,either,->,lung
+5,either,->,xray
+6,either,->,dysp
+7,xray,->,tub
+ID,Variable 1,Dependency,Variable 2
+1,asia,->,tub
+2,bronc,->,smoke
+3,bronc,->,dysp
+4,either,->,lung
+5,either,->,xray
+ID,Variable 1,Dependency,Variable 2
+1,smoke,->,bronc
+2,lung,->,smoke
+3,bronc,->,dysp
+4,either,->,tub
+5,either,->,lung
+6,either,->,xray
+7,either,->,dysp
+ID,Variable 1,Dependency,Variable 2
+1,bronc,->,smoke
+2,bronc,->,dysp
+3,either,->,tub
+4,either,->,lung
+5,either,->,xray
+6,dysp,->,bronc
+7,dysp,->,either
+ID,Variable 1,Dependency,Variable 2
+1,asia,->,tub
+2,smoke,->,tub
+3,smoke,->,bronc
+4,lung,->,smoke
+5,lung,->,either
+6,lung,->,xray
+7,bronc,->,dysp
+ID,Variable 1,Dependency,Variable 2
+1,tub,->,asia
+2,tub,->,either
+3,lung,->,either
+4,either,->,xray
+5,dysp,->,smoke
+6,dysp,->,lung
+7,dysp,->,bronc
+ID,Variable 1,Dependency,Variable 2
+1,tub,->,either
+2,smoke,->,lung
+3,smoke,->,bronc
+4,lung,->,either
+5,bronc,->,dysp
+6,either,->,xray
+ID,Variable 1,Dependency,Variable 2
+1,tub,->,xray
+2,smoke,->,lung
+3,smoke,->,bronc
+4,lung,->,either
+5,bronc,->,dysp
+6,either,->,xray
+7,either,->,dysp
+ID,Variable 1,Dependency,Variable 2
+1,asia,->,tub
+2,smoke,->,lung
+3,lung,->,tub
+4,bronc,->,smoke
+5,dysp,->,bronc
+ID,Variable 1,Dependency,Variable 2
+1,smoke,->,bronc
+2,lung,->,smoke
+3,lung,->,either
+4,bronc,->,dysp
+5,either,->,tub
+6,either,->,lung
+7,either,->,xray
+8,either,->,dysp
+ID,Variable 1,Dependency,Variable 2
+1,tub,->,xray
+2,smoke,->,bronc
+3,bronc,->,dysp
+4,either,->,lung
+5,either,->,dysp
+6,xray,->,either
+ID,Variable 1,Dependency,Variable 2
+1,asia,->,tub
+2,tub,->,either
+3,bronc,->,smoke
+4,bronc,->,dysp
+5,either,->,tub
+6,either,->,lung
+7,either,->,xray
+ID,Variable 1,Dependency,Variable 2
+1,smoke,->,lung
+2,smoke,->,bronc
+3,lung,->,either
+4,bronc,->,dysp
+5,either,->,xray
+6,either,->,dysp
+7,xray,->,tub
+ID,Variable 1,Dependency,Variable 2
+1,tub,->,either
+2,smoke,->,lung
+3,lung,->,either
+4,bronc,->,smoke
+5,bronc,->,dysp
+6,either,->,xray
+7,dysp,->,bronc
+ID,Variable 1,Dependency,Variable 2
+1,asia,->,tub
+2,tub,->,either
+3,smoke,->,tub
+4,smoke,->,lung
+5,smoke,->,bronc
+6,lung,->,either
+7,bronc,->,dysp
+8,either,->,xray
+ID,Variable 1,Dependency,Variable 2
+1,asia,->,tub
+2,tub,->,either
+3,smoke,->,dysp
+4,lung,->,either
+5,either,->,smoke
+6,either,->,xray
+7,dysp,->,bronc
+ID,Variable 1,Dependency,Variable 2
+1,tub,->,asia
+2,tub,->,lung
+3,smoke,->,bronc
+4,lung,->,smoke
+5,bronc,->,dysp
+6,either,->,tub
+7,either,->,lung
+8,xray,->,either
+ID,Variable 1,Dependency,Variable 2
+1,smoke,->,bronc
+2,lung,->,either
+3,bronc,->,dysp
+4,either,->,xray
+5,either,->,dysp
+6,xray,->,smoke
+ID,Variable 1,Dependency,Variable 2
+ID,Variable 1,Dependency,Variable 2
+1,asia,->,tub
+2,tub,->,either
+3,smoke,->,lung
+4,smoke,->,bronc
+5,lung,->,either
+6,bronc,->,dysp
+7,either,->,xray
+8,either,->,dysp
+ID,Variable 1,Dependency,Variable 2
+1,lung,->,either
+2,bronc,->,smoke
+3,bronc,->,lung
+4,bronc,->,dysp
+5,either,->,tub
+6,either,->,xray
+7,either,->,dysp
+ID,Variable 1,Dependency,Variable 2
+1,lung,->,either
+2,bronc,->,smoke
+3,bronc,->,dysp
+4,either,->,tub
+5,either,->,xray
+6,xray,->,smoke
+ID,Variable 1,Dependency,Variable 2
+1,smoke,->,lung
+2,smoke,->,bronc
+3,lung,->,either
+4,bronc,->,dysp
+5,either,->,xray
+6,either,->,dysp
+7,xray,->,tub
+ID,Variable 1,Dependency,Variable 2
+1,tub,->,either
+2,smoke,->,lung
+3,smoke,->,bronc
+4,lung,->,either
+5,bronc,->,dysp
+6,either,->,xray
+7,either,->,dysp
+ID,Variable 1,Dependency,Variable 2
+1,lung,->,either
+2,bronc,->,dysp
+3,either,->,xray
+4,xray,->,bronc
+5,dysp,->,asia
+6,dysp,->,smoke
+ID,Variable 1,Dependency,Variable 2
+1,tub,->,asia
+2,tub,->,either
+3,smoke,->,bronc
+4,lung,->,either
+5,bronc,->,dysp
+6,either,->,xray
+7,dysp,->,lung

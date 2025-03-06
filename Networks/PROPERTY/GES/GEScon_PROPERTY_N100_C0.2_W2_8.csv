@@ -1,0 +1,6 @@
+ID,Variable1,Dependency,Variable2
+1,rentalGrossProfit,->,rentalNetProfitBeforeInterest
+2,otherPropertyExpenses,->,propertyExpenses
+3,rentalNetProfitBeforeInterest,->,actualRentalIncome
+4,propertyPurchaseValue,->,stampDutyTaxBand
+5,interestTaxRelief,->,interest

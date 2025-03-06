@@ -1,0 +1,11 @@
+ID,Variable1,Dependency,Variable2
+1,Stress,->,CocaineDependence
+2,ProblematicLifeEvents,->,Stress
+3,CriminalAttitude,->,AttitudeDL
+4,DrugTreatment,->,DrugTreatmentGivenRFAT
+5,SubstanceUse,->,SubstanceMisuseDL
+6,ResponseToTreatGivenDrugDep,->,ResponsivenessToTreatment
+7,AngerManagement,->,SymptomsOfMentalIllness
+8,Depression,->,DepressionPT
+9,StrangeExperiences,->,StrangeExperiencesPT
+10,PsychiatricTreatmentGivenRFAT,->,ThoughtInsertionPT

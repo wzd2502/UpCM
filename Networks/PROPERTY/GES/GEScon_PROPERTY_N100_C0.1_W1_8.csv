@@ -1,0 +1,4 @@
+ID,Variable1,Dependency,Variable2
+1,propertyPurchaseValue,->,propertyValueT+1
+2,capitalGrowth,->,capitalGains
+3,interest,->,interestTaxRelief

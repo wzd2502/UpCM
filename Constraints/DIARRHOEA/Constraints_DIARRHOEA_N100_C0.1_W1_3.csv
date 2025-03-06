@@ -1,0 +1,15 @@
+ID,Parent,Child,TrueOrFalse
+0,MTH_Education,IMM_Diptheria,true
+1,ECO_WealthQuintile,CHI_Weight4Height,true
+2,MTH_MaternalAge,FP_ModernMethod,true
+3,ECO_WealthQuintile,KNW_WatchTV,true
+4,ECO_WealthQuintile,SRV_OKAlone,true
+5,WSH_ImprovedToilet,WSH_WashWithAgent,true
+6,WSH_SafeStoolDisposal,DIA_HadDiarrhoea,true
+7,CHI_Age,DIA_HadDiarrhoea,false
+8,GEO_Region,WSH_WashWithAgent,false
+9,GEO_Region,IMM_Measles,false
+10,SRV_Near,WSH_SafeStoolDisposal,false
+11,BF_BreastfedMonths,FP_ModernMethod,false
+12,HOU_CookingFuel,FP_ModernMethod,false
+13,IMM_Measles,HOU_CookingFuel,false

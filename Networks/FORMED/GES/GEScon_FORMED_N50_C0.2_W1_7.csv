@@ -1,0 +1,15 @@
+ID,Variable1,Dependency,Variable2
+1,ASPD,->,PCLRfactor2
+2,FinancialDifficulties,->,Stress
+3,NegativeAttitude,->,AttitudeDL
+4,SymptomsOfMentalIllness,->,Depression
+5,CannabisBeforePrisonSentence,->,CannabisDuringPrisonSentence
+6,CannabisDuringPrisonSentence,->,CannabisAfterRelease
+7,EcstasyDependence,->,AnyDrugDependence
+8,CocaineDependence,->,AnyDrugDependence
+9,AlcoholTreatment,->,AlcoholTreatmentGivenRFAT
+10,Violence,->,ViolentConvictionsRate
+11,ResponsivenessToTreatment,->,ResponseToTreatGivenAlcDep
+12,DepressionPT,->,SocialWithdraw
+13,Hallucinations,->,HallucinationsPT
+14,ParanoidDelusions,->,ParanoidDelusionsPT

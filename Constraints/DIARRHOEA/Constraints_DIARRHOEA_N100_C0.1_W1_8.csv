@@ -1,0 +1,15 @@
+ID,Parent,Child,TrueOrFalse
+0,ECO_WealthQuintile,KNW_WatchTV,true
+1,IMM_VitaminA1,IMM_Measles,true
+2,WSH_SafeStoolDisposal,DIA_HadDiarrhoea,true
+3,CHI_Age,IMM_VitaminA1,true
+4,CUL_LanguageGroup,BF_EarlyBreastfeeding,true
+5,GEO_Region,CUL_Religion,true
+6,SRV_Near,SRV_OKAlone,true
+7,MTH_MaternalAge,WSH_SafeStoolDisposal,false
+8,MTH_MaternalAge,SRV_OKAlone,false
+9,HOU_ModernWallMaterial,MTH_MaternalAge,false
+10,HOU_CookingFuel,HOU_ModernWallMaterial,false
+11,WSH_WashWithAgent,MTH_MaternalAge,false
+12,HOU_ModernWallMaterial,IMM_Diptheria,false
+13,CUL_Religion,WSH_WaterTreated,false

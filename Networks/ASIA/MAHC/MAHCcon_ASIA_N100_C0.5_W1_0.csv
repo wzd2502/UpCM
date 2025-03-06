@@ -1,0 +1,7 @@
+ID,Variable1,Dependency,Variable2
+1,smoke,->,bronc
+2,lung,->,tub
+3,bronc,->,dysp
+4,either,->,lung
+5,either,->,xray
+6,xray,->,smoke

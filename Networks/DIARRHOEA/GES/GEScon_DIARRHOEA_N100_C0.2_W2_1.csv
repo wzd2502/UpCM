@@ -1,0 +1,5 @@
+ID,Variable1,Dependency,Variable2
+1,CHI_Age,->,IMM_Measles
+2,ECO_WealthQuintile,->,KNW_WatchTV
+3,GEO_Region,->,CUL_LanguageGroup
+4,WSH_WashWithAgent,->,BF_BottleFeeding

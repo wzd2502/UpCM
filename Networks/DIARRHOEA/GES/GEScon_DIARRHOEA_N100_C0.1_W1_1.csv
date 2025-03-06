@@ -1,0 +1,4 @@
+ID,Variable1,Dependency,Variable2
+1,CHI_Age,->,BF_BreastfedMonths
+2,CHI_Age,->,IMM_Measles
+3,CUL_LanguageGroup,->,HOU_CookingFuel
